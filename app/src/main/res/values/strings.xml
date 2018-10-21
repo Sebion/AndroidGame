@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game</string>
+
+    <string name="menu_button">Start Game!</string>
+    <string name="text_next">Welcome on new screen !</string>
+    <string name="button_player_1">Click me as fast as you can!</string>
+    <string name="count_of_clicks">Select your maximum clicks</string>
+</resources>
